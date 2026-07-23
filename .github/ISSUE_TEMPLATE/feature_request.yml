@@ -1,0 +1,28 @@
+name: 功能建议
+description: 提议新的能力或体验改进
+title: "[Feature] "
+labels:
+  - enhancement
+body:
+  - type: textarea
+    id: scenario
+    attributes:
+      label: 使用场景
+      description: 你在什么情况下遇到了什么问题
+    validations:
+      required: true
+
+  - type: textarea
+    id: current
+    attributes:
+      label: 当前解决方式
+      description: 你现在如何完成这件事
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 希望的改进
+    validations:
+      required: true

@@ -1,0 +1,16 @@
+# Release binaries belong in GitHub Releases, never in Git history
+*.exe
+*.msi
+*.msix
+*.appx
+*.zip
+*.sha256
+
+# Secrets and local files
+.env
+.env.*
+!.env.example
+*.db
+*.log
+Thumbs.db
+.DS_Store
