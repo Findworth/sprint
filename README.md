@@ -105,20 +105,3 @@ SprintAI 的价值不在能力上限的演示，而在于**可预期地帮你把
 - **可复用的沉淀路径**：结论与方法能留在白板与资产侧，下次不必从零调教、从零捞记录
 
 选 SprintAI，让你在**一次冲刺结束后，手上一定有一套能继续判断、能继续投入的方案**
-
-## 版权说明
-
-SprintAI 是闭源软件，版权所有 © 2026 Findworth
-
-下载或使用 SprintAI 不代表获得其源代码、品牌、视觉资产或其他知识产权的复制、修改与再分发权利，详情见 [LICENSE](LICENSE)
-
-## 下载、更新与反馈
-
-SprintAI 当前提供 Windows x64 版本
-
-- [下载最新版本](https://github.com/Findworth/sprint/releases/latest)
-- [查看历史版本与更新说明](https://github.com/Findworth/sprint/releases)
-- [反馈使用问题](https://github.com/Findworth/sprint/issues/new?template=bug_report.yml)
-- [提出功能建议](https://github.com/Findworth/sprint/issues/new?template=feature_request.yml)
-
-请只从本仓库的 GitHub Releases 下载官方版本
