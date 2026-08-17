@@ -32,6 +32,12 @@ https://github.com/user-attachments/assets/77e5202a-f2a0-487f-a838-1fe02b503011
 
 https://github.com/user-attachments/assets/e4977333-de1c-4c2a-ac40-ba77f27ec545
 
+https://github.com/user-attachments/assets/3145fc3d-8ea2-4b0a-94c4-53ab7d2a60bd
+
+https://github.com/user-attachments/assets/c02d277e-3582-4464-8f81-cb1e348a1330
+
+https://github.com/user-attachments/assets/42eb9176-2933-4b08-9dc5-52fe31fbeb48
+
 ## 一场 SprintAI 冲刺如何进行
 
 ### 1. 定义问题
