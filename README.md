@@ -26,9 +26,7 @@ SprintAI 是一款多智能体设计冲刺应用，将Google设计冲刺方法�
 
 AI 补齐角色、视角和流程纪律；最终方向始终由你决定
 
-## 产品演示
-
-https://github.com/user-attachments/assets/77e5202a-f2a0-487f-a838-1fe02b503011
+## 部分产品演示
 
 https://github.com/user-attachments/assets/e4977333-de1c-4c2a-ac40-ba77f27ec545
 
