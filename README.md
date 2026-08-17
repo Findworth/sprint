@@ -30,7 +30,7 @@ AI 补齐角色、视角和流程纪律；最终方向始终由你决定
 
 ### 流程图绘制
 
-https://github.com/user-attachments/assets/3145fc3d-8ea2-4b0a-94c4-53ab7d2a60bd
+https://github.com/user-attachments/assets/e4977333-de1c-4c2a-ac40-ba77f27ec545
 
 ### 真人介入
 
@@ -38,11 +38,11 @@ https://github.com/user-attachments/assets/c02d277e-3582-4464-8f81-cb1e348a1330
 
 ### 方案执行与上墙
 
-https://github.com/user-attachments/assets/e4977333-de1c-4c2a-ac40-ba77f27ec545
+https://github.com/user-attachments/assets/42eb9176-2933-4b08-9dc5-52fe31fbeb48
 
 ### 快速批判
 
-https://github.com/user-attachments/assets/42eb9176-2933-4b08-9dc5-52fe31fbeb48
+https://github.com/user-attachments/assets/3145fc3d-8ea2-4b0a-94c4-53ab7d2a60bd
 
 ## 一场 SprintAI 冲刺如何进行
 
